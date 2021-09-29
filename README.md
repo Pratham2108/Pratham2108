@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently working on my Data analaysis portfolio
 - 🔮 My future aim is to become a Data engineer
+- 🎓 Currently a 3rd year BTech student in Information Technology
 - 📫 How to reach me: agarprath21@gmail.com
 
 <!---
