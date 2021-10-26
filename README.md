@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratham Agarwala
 - 👀 Looking for internship opportunities in Data Science
 - 🌱 I’m currently working on my Data analaysis portfolio
-- 🔮 My future aim is to become a Data engineer
+- 🔮 My aim is to become a Data Analyst
 - 🎓 Currently a 3rd year BTech student in Information Technology
 - 📫 How to reach me: agarprath21@gmail.com
 
