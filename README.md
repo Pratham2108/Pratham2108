@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratham Agarwala
-- 👀 Looking for internship opportunities in Data Science
+- 👀 Looking for internship or job opportunities in Business and data fields
 - 🌱 I’m currently working on my Data analaysis portfolio
 - 🔮 My aim is to become a Data Analyst
 - 🎓 Currently a 3rd year BTech student in Information Technology
