@@ -2,7 +2,7 @@
 - 👀 Looking for internship or job opportunities in Business and data fields
 - 🌱 I’m currently working on my Data analaysis portfolio
 - 🔮 My aim is to become a Data Analyst
-- 🎓 Currently a 3rd year BTech student in Information Technology
+- 🎓 Currently a 4th year BTech student in Information Technology
 - 📫 How to reach me: agarprath21@gmail.com
 
 - 📊 Tableau Public profile: https://public.tableau.com/app/profile/pratham.agarwala
